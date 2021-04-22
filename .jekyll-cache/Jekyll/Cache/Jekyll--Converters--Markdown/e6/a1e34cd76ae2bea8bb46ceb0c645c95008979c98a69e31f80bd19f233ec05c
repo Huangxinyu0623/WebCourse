@@ -1,0 +1,35 @@
+I"�<h2 id="second-assignment---developing-a-static-website">Second Assignment - Developing A Static Website</h2>
+
+<ul>
+  <li>1.The Structure of The Website Directory</li>
+</ul>
+
+<p><img src="/assets/images/1.jpg" alt="Structure" /></p>
+
+<ul>
+  <li>
+    <p>2.The Web Interface:</p>
+
+    <p>(1)Home Page
+  <img src="/assets/images/Homepage.jpg" alt="Home Page" /></p>
+
+    <p>(2)Blog Page
+  <img src="/assets/images/Blogpage.jpg" alt="Blog Page" /></p>
+
+    <p>(3)Post Page</p>
+
+    <p><img src="/assets/images/Postpage.jpg" alt="Post Page" /></p>
+
+    <p>(4)Staff Page</p>
+
+    <p><img src="/assets/images/Staffpage.jpg" alt="Staff Page" /></p>
+  </li>
+  <li>
+    <p>3.The Process of The Assignment
+  +(1)首先根据教程在vscode先完成网站的框架搭建，再对网页内容进行修改，实时观察修改内容是否生效
+  +(2)完成vscode与github的关连，将所编写的网站代码push到github的仓库上
+  +(3)</p>
+  </li>
+</ul>
+
+:ET

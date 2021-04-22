@@ -29,5 +29,19 @@ Second Assignment - Developing A Static Website
 
     ![Staff Page](/assets/images/Staffpage.jpg)
 
+    (5)Writer Page
+
+    ![Writer Page](/assets/images/Writerpage.jpg)
+
+
+    (6)About Page
+
+    ![About Page](/assets/images/Aboutpage.jpg)
+
+* 3.The Process of The Assignment
+     + 首先根据教程在vscode先完成网站的框架搭建，再对网页内容进行修改，实时观察修改内容是否生效
+     + 完成vscode与github的关连，将所编写的网站代码push到github的仓库上
+     + 安装nginx，先对nginx的配置进行修改，将存储网站代码的github仓库clone到nginx中，再重新启动nginx，观察网页效果
+
 
 
